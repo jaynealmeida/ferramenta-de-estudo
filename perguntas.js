@@ -1,5 +1,5 @@
 criaCartao(
-    'Programação',
+    'rede social',
     'o que é instagram?',
     ' é uma rede social visual, criativa e interativa.'
 )
@@ -11,7 +11,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
+    'geografia',
     'qual  é a capital da Califonia?',
     'Sacramento'
 )
